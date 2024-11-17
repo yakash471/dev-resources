@@ -1,8 +1,7 @@
 # 🚀 **Exercise 1: JavaScript Coding Challenges**
 
 ##### 1. **Find the Minimum Number in an Array**
-- [ ] Unsolved
-- [x] Solved
+
 
 ##### 2. Find the Maximum Number in an Array
 
