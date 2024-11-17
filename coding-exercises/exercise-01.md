@@ -1,6 +1,5 @@
 ### 🚀 **Exercise 1: JavaScript Coding Challenges**
 
----
 
 ### 1. **Find the Minimum Number in an Array?**
 
