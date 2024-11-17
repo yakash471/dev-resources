@@ -1,8 +1,5 @@
 # 🚀 **Exercise 1: JavaScript Coding Challenges**
 
-Welcome to **Exercise 1**! In this exercise, we will solve a series of fundamental JavaScript problems. These challenges will help you understand arrays, recursion, and higher-order functions like `reduce`.
-
----
 
 ## 📜 **Problems**
 
