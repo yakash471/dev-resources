@@ -1,4 +1,4 @@
-### 🚀 **Exercise 1: JavaScript Coding Challenges**
+# 🚀 **Exercise 1**
 
 
 ### 1. **Find the Minimum Number in an Array?**
