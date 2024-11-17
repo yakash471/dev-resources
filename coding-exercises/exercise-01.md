@@ -1,5 +1,3 @@
-# JavaScript Coding Questions
-## 🚀 **JavaScript**
+## 🚀 **Exercise 1**
 
-### **Questions**
 1. **Reverse a String**
