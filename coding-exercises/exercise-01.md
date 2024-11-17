@@ -1,4 +1,4 @@
-# 🚀 **Exercise 1: JavaScript Coding Challenges**
+## 🚀 **Exercise 1: JavaScript Coding Challenges**
 
 ---
 
